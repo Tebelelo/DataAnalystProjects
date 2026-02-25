@@ -172,9 +172,11 @@ WHERE row_num > 1
 ORDER BY Home_Team
  
  ---There is no duplicates
+	--
 
  ---------------------------------------------------------------------------
  --Deleting  unneccessary columns
 
 ALTER TABLE dbo.[Premier_League(2022-2023)]
 DROP COLUMN  links
+
