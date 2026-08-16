@@ -1,0 +1,7 @@
+customer_type,payment,transactions,revenue,average_transaction
+Normal,Ewallet,184,58202.15,316.32
+Normal,Cash,176,57545.55,326.96
+Member,Credit card,172,57771.47,335.88
+Member,Cash,167,54609.87,327.01
+Member,Ewallet,162,51842.1,320.01
+Normal,Credit card,139,42995.6,309.32
